@@ -48,7 +48,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 margin:0;
 padding:0;
 position: relative;
-width: 1350px;
+width: 1100px;
 height: 350px; 
 display: flex;
 justify-content: center;
