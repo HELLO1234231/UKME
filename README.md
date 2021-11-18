@@ -49,7 +49,7 @@ margin:0;
 padding:0;
 position: relative;
 width: 1100px;
-height: 350px; 
+height: 500px; 
 display: flex;
 justify-content: center;
 align-items: center;
