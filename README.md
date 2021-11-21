@@ -42,6 +42,10 @@
     border-radius: 40px;
 }
 
+.house1{
+  float: right;
+}
+
 .box{
 background-color: #060c21;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -185,7 +189,27 @@ After all Have A break, Have a Quality
 
 </div>
 
-    <p>TERMS & CONDITIONS Festive Family Deal £24.99 Offer entitles the customer to any 2 medium pizzas, 2 sides and a large Drink for £24.99 Excludes chicken sides. Add £2.75 for Stuffed Crust. Extra sugar drinks levy charge may apply. Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with any other offers or Double Ups. Offer is available until 2nd January 2021. 50% Off Vegan Offer entitles customer to 50% off any vegan pizzas, sides and deserts. Excludes non-vegan products and drinks. Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with any other offers or Double Ups. Offer is available until 30th November 2021.</p>
+<br>
+<br>
+
+<div class="class2">
+
+  <p>TERMS & CONDITIONS Festive Family Deal £24.99 Offer entitles the customer to any 2 medium pizzas, 2 sides and a 
+    large Drink for £24.99 Excludes chicken sides. Add £2.75 for Stuffed Crust. Extra sugar drinks levy charge may apply. 
+    Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with any other offers or Double Ups. 
+    Offer is available until 2nd January 2021. 50% Off Vegan Offer entitles customer to 50% off any vegan pizzas, sides and deserts. Excludes
+     non-vegan products and drinks. Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with 
+     any other offers or Double Ups. Offer is available until 30th November 2021.</p>
+
+</div>
+
+
+
+
+<img width="650" height="350" src="HERE.PNG">
+<div class="house1">
+<img width="650" height="350" src="HEY.PNG">
+</div>
 
     </body>
 </html>
