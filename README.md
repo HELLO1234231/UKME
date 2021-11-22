@@ -45,6 +45,10 @@
 .house1{
   float: right;
 }
+            
+.house2{
+  float: left;
+}
 
 .box{
 background-color: #060c21;
@@ -205,8 +209,9 @@ After all Have A break, Have a Quality
 
 
 
-
+<div class="house2">
 <img width="650" height="350" src="HERE.PNG">
+    </div>
 <div class="house1">
 <img width="650" height="350" src="HEY.PNG">
 </div>
