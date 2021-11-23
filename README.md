@@ -208,6 +208,7 @@ After all Have A break, Have a Quality
 <div class="house1">
 <img width="650" height="350" src="HEY.PNG">
 </div>
+    <br>
     <div class="class2">
 
   <p>TERMS & CONDITIONS Festive Family Deal £24.99 Offer entitles the customer to any 2 medium pizzas, 2 sides and a 
