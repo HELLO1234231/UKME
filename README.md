@@ -199,16 +199,6 @@ After all Have A break, Have a Quality
 <br>
 <br>
 
-<div class="class2">
-
-  <p>TERMS & CONDITIONS Festive Family Deal £24.99 Offer entitles the customer to any 2 medium pizzas, 2 sides and a 
-    large Drink for £24.99 Excludes chicken sides. Add £2.75 for Stuffed Crust. Extra sugar drinks levy charge may apply. 
-    Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with any other offers or Double Ups. 
-    Offer is available until 2nd January 2021. 50% Off Vegan Offer entitles customer to 50% off any vegan pizzas, sides and deserts. Excludes
-     non-vegan products and drinks. Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with 
-     any other offers or Double Ups. Offer is available until 30th November 2021.</p>
-
-</div>
 
 
 
@@ -217,6 +207,16 @@ After all Have A break, Have a Quality
     </div>
 <div class="house1">
 <img width="650" height="350" src="HEY.PNG">
+</div>
+    <div class="class2">
+
+  <p>TERMS & CONDITIONS Festive Family Deal £24.99 Offer entitles the customer to any 2 medium pizzas, 2 sides and a 
+    large Drink for £24.99 Excludes chicken sides. Add £2.75 for Stuffed Crust. Extra sugar drinks levy charge may apply. 
+    Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with any other offers or Double Ups. 
+    Offer is available until 2nd January 2021. 50% Off Vegan Offer entitles customer to 50% off any vegan pizzas, sides and deserts. Excludes
+     non-vegan products and drinks. Valid at participating stores only. Products added as part of this offer cannot be used in conjunction with 
+     any other offers or Double Ups. Offer is available until 30th November 2021.</p>
+
 </div>
 
     </body>
