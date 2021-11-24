@@ -46,6 +46,10 @@
   float: right;
 }
             
+.house3{
+float: center; 
+}
+            
 .house2{
   float: left;
 }
