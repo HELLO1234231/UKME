@@ -189,6 +189,7 @@ filter: blur(40px);
   Our Goal is To make a Pizza Box to not just to stop you from getting Cheese stuck all over your pizza  Box but also to keep it warm 
   and tasty for you. Our Pizza Box will Also Have Layers in which you can but multiple pizzas in.
   <br>
+  Our Design is a Unique design that contains Banana Leaves, Aluminium foil, Plastic and cardboard. 
   If you want to know more Contact us AT <br>
   Email: UkMe@Gmailwe.com
   <br>
